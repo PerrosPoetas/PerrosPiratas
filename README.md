@@ -33,11 +33,10 @@ Actividades físicas competitivas que muestran habilidades y entretenimiento par
 -🧰 Herramientas.
 Ayudas de activación, scripts de usuario, gestores de descarga, asistentes, extensiones y mucho más.
 
-Recomendaciones importantes.
-- Usa Firefox + uBlock Origin.
+Recomendaciones generales:
+1. Usa Firefox + uBlock Origin.
 Firefox es el mejor navegador que no utiliza Chromium y ofrece excelentes funciones de seguridad y privacidad. También cuenta con la mejor compatibilidad con uBlock Origin para bloquear eficazmente anuncios y otros contenidos web dañinos.
-
-- Cambia tu configuración de DNS.
+2. Cambia tu configuración de DNS.
 El DNS puede mejorar la experiencia de navegación al aumentar la velocidad y eludir restricciones, ya que tu proveedor de servicios de Internet (ISP) suele ofrecer un DNS predeterminado más lento que puede censurar sitios web según sus preferencias.
 
 Recomendaciones para descargar torrents:
