@@ -2,25 +2,25 @@
 Guía del pirata edición Perros Poetas
 
 Aquí encontrarás donde conseguir:
-⭐ Anime
+⭐ Anime.
 Entretenimiento animado japonés con diversos géneros y un estilo artístico vibrante.
-📚 Libros
+📚 Libros.
 El manga, los cómics y las novelas son medios que combinan texto e imágenes para transmitir información.
-🕹️ Emuladores
+🕹️ Emuladores.
 Simulan las funciones de las consolas de videojuegos, mientras que las ROM son copias digitales de los juegos.
-🎮 Juegos
+🎮 Juegos.
 Juegos electrónicos que se juegan en una pantalla y que implican interacción y retos para el entretenimiento.
-📱 Móvil
+📱 Móvil.
 Dispositivos portátiles que combinan funciones informáticas y telefónicas en un único sistema operativo como Android o iOS.
-🎦 Películas y televisión
+🎦 Películas y televisión.
 Narrativa visual para evocar emociones y atraer a los espectadores, reflejando la experiencia humana.
-🎹 Música
+🎹 Música.
 El arte de arreglar sonidos crea forma, armonía, melodía, ritmo y expresión.
-⚙️ Software
+⚙️ Software.
 Multitud de programas informáticos, archivos y datos adaptados para computadoras de escritorio.
-👟 Deportes
+👟 Deportes.
 Actividades físicas competitivas que muestran habilidades y entretenimiento para los espectadores.
-🧰 Herramientas
+🧰 Herramientas.
 Ayudas de activación, scripts de usuario, gestores de descarga, asistentes, extensiones y mucho más.
 
 ¡IMPORTANTE!
